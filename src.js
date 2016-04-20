@@ -1,4 +1,4 @@
-import {window, document} from 'q-global';
+import {window, document} from 'my-global';
 export default cookie;
 
 var encode = window.encodeURIComponent;
